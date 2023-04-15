@@ -1,6 +1,6 @@
 # Modified ResNet-18 for Image Classification
 
-This repository contains modified code for the ResNet-18 architecture to improve its performance on image classification tasks. Specifically, we investigated the impact of changing batch size, activation function, and incorporating dropout in the model. We conducted experiments using the CIFAR-10 dataset and compared the performance of four different models. Model 3 is the model of consderation.
+This repository contains modified code for the ResNet-18 architecture to improve its performance on image classification tasks. Specifically, we investigated the impact of changing batch size, activation function, and incorporating dropout in the model. We conducted experiments using the CIFAR-10 dataset and compared the performance of four different models. Model 3 is the model of consideration.
 
 Performance Metrics: 
 | Model | Train Loss | Train Accuracy | Test Loss | Test Accuracy |
