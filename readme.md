@@ -7,6 +7,9 @@ Requirements
 To run the code, you will need the following:
 
 Python 3.6 or later
+
 PyTorch 1.7.1 or later
+
 torchvision 0.8.2 or later
+
 NumPy 1.19.3 or later
