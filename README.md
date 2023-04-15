@@ -1,4 +1,4 @@
-Modified ResNet-18 for ImaModified ResNet-18 for Image Classification
+Modified ResNet-18 for Image Classification
 
 This repository contains modified code for the ResNet-18 architecture to improve its performance on image classification tasks. Specifically, we investigated the impact of changing batch size, activation function, and incorporating dropout in the model. We conducted experiments using the CIFAR-10 dataset and compared the performance of four different models.
 
